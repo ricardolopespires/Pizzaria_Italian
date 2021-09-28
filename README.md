@@ -1,5 +1,8 @@
-# Pizzaria_Italian
+ 
+  # Pizzaria_Italian  <img align = left src="https://github.com/ricardolopespires/Pizzaria_Italian/blob/main/logo1.png" width = 70/>
 Projeto de Pizzaria online com Delivery. para pessoas que deseja adquirir alguns desses itens em uma loja virtual. Estes são dois campos que estão muito em alta: tecnologia e venda por Delivery. Imagine aliar esses dois mundos, criando um e-commerce com Delirevy?
+
+
 
 <p align = left'>
     <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
