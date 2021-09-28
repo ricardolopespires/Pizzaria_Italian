@@ -10,7 +10,7 @@ Projeto de Pizzaria online com Delivery. para pessoas que deseja adquirir alguns
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Pizzaria_Italian" />
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Pizzaria_Italian" />
                 
-   <img align = right src="https://github.com/ricardolopespires/Resto-Food/blob/main/banner_git.png" width = 490/>
+   <img align = right src="https://github.com/ricardolopespires/Pizzaria_Italian/blob/main/banner_github.png" width = 490/>
 </p>
 
 
